@@ -4,7 +4,7 @@ The project will use REACTJS, HTML, and CSS for the frontend, Java for the backe
 
 💻 Authors: 
 - Alex Giovannini, Alright I will take the team lead role.
-- Jason Prakash, frontend / backend
+- Jason Prakash, frontend / backend , ...
 - Bahrahn Temesgen
 - Kevin Lai
 - Lance Wakamatsu
